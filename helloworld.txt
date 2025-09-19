@@ -2,4 +2,8 @@ Hello World;
 New lines adding;
 This is the third line;
 Adbjsakdadjasbd;
+<<<<<<< HEAD
 Cat jumping and barking and fucking around;
+=======
+Chicken jumping and barking and fucking around;
+>>>>>>> branch2
